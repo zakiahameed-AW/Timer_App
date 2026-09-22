@@ -4,7 +4,7 @@ Android Timer App built using Kotlin and Jetpack Compose.
 
 ## Screenshot
 
-![Timer App Screenshot](screenshot/timer-app-screenshot.png)
+![Timer App Screenshot](./screenshot/timer-app-screenshot.png)
 
 ## Project Structure
 
